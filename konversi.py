@@ -1,5 +1,6 @@
 import sys
 
+// Diperbaharui tanggal 22/7/2021
 def main():
     print("Versi Python %.5s"%sys.version)
     print("Konversi Suhu (Fahrenheit ke Celcius)\n")
